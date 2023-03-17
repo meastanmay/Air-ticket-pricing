@@ -28,7 +28,7 @@ This analysis of Six Airlines’ namely (Air France, British Airways, Jet Airlin
 - The Independent variables are Flight Duration, Price of Economy seat Tickets, Number of Premium seats in the aircraft, Service of the airline (International/domestic), Aircraft used and the total number of seats in the aircraft.
 - The Multiple R-square value is 0.8861 which is high, which tells that our model is good.
 - The p-value is less than 0.05, which fails the null hypothesis that the variables are independent.
-*Bo = -806.4720, b1=(663.11393/609.7195/573.61493/313.32728/1010.03918), b2=55.65229, b3=-0.84176, b4=1016159, b5=175.35921, b6=2.37203 
+- *Bo = -806.4720, b1=(663.11393/609.7195/573.61493/313.32728/1010.03918), b2=55.65229, b3=-0.84176, b4=1016159, b5=175.35921, b6=2.37203 
 Where, if Airline British= 663.11393, Airline Delta=609.7195, Airline Jet=573.61493, Airline Singapore=313.32728, Airline Virgin=1010.03918*
 *Model: PriceEconomy = 
 -806.4720 + ((663.11393/609.7195/573.61493/313.32728/1010.03918)*Airline)
@@ -41,7 +41,7 @@ Where, if Airline British= 663.11393, Airline Delta=609.7195, Airline Jet=573.61
 - The Independent variables in the model are Pitch difference, Width difference, Aircraft, IsInternational.
 - The R-square value is 0.2747, which tells that the model is average model.
 - The p-value is less than 0.05, thus fails the null hypothesis that the variables are independent of each other.
-*Bo= -0.13614, b1=0.07583, b2=0.10862, b3=0.04576, b4= -0.9958
+- *Bo= -0.13614, b1=0.07583, b2=0.10862, b3=0.04576, b4= -0.9958
 Model: -0.13614 + (0.07583*PitchDifference) + (0.10862*WidthDifference) + (0.04576*Aircraft) + (-0.9958*IsInternational)*
       
 

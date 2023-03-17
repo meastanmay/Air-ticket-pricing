@@ -36,14 +36,13 @@ Where, if Airline British= 663.11393, Airline Delta=609.7195, Airline Jet=573.61
  
 
 
-Multiple Regression Model 2
-The second multiple regression model has Relative Price of tickets as the dependent variable.
-
-The Independent variables in the model are Pitch difference, Width difference, Aircraft, IsInternational.
-The R-square value is 0.2747, which tells that the model is average model.
-The p-value is less than 0.05, thus fails the null hypothesis that the variables are independent of each other.
-Bo= -0.13614, b1=0.07583, b2=0.10862, b3=0.04576, b4= -0.9958
-Model: -0.13614 + (0.07583*PitchDifference) + (0.10862*WidthDifference) + (0.04576*Aircraft) + (-0.9958*IsInternational)
+# Multiple Regression Model 2
+- The second multiple regression model has Relative Price of tickets as the dependent variable.
+- The Independent variables in the model are Pitch difference, Width difference, Aircraft, IsInternational.
+- The R-square value is 0.2747, which tells that the model is average model.
+- The p-value is less than 0.05, thus fails the null hypothesis that the variables are independent of each other.
+*Bo= -0.13614, b1=0.07583, b2=0.10862, b3=0.04576, b4= -0.9958
+Model: -0.13614 + (0.07583*PitchDifference) + (0.10862*WidthDifference) + (0.04576*Aircraft) + (-0.9958*IsInternational)*
       
 
    

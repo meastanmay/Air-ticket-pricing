@@ -30,9 +30,7 @@ This analysis of Six Airlines’ namely (Air France, British Airways, Jet Airlin
 - The p-value is less than 0.05, which fails the null hypothesis that the variables are independent.
 - *Bo = -806.4720, b1=(663.11393/609.7195/573.61493/313.32728/1010.03918), b2=55.65229, b3=-0.84176, b4=1016159, b5=175.35921, b6=2.37203 
 Where, if Airline British= 663.11393, Airline Delta=609.7195, Airline Jet=573.61493, Airline Singapore=313.32728, Airline Virgin=1010.03918*
-- *Model: PriceEconomy = 
--806.4720 + ((663.11393/609.7195/573.61493/313.32728/1010.03918) x Airline)
-+ (55.65229 x FlightDuration) + (-0.84176 x SeatsPremium) + (1.16159 x PriceEconomy) + (175.35921 x IsInternational) + (2.37203 x Aircraft)*
+- *Model: PriceEconomy = -806.4720 + ((663.11393/609.7195/573.61493/313.32728/1010.03918) x Airline) + (55.65229 x FlightDuration) + (-0.84176 x SeatsPremium) + (1.16159 x PriceEconomy) + (175.35921 x IsInternational) + (2.37203 x Aircraft)*
  
 
 
